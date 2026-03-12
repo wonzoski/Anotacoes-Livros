@@ -9,7 +9,7 @@ Um barra invertida antes do alias escapa o alias, fazendo o shell procurar um co
 Quando o shell procura um comando pelo nome, ele verifica se esse nome é um alias antes de verificar o caminho de pesquisa. É pro isso que um alias pode sombrear (ter procedencia sobre) um comando de mesmo nome.
 
 #### **_Pag 60._**
-__Verifique__. Antes de executar <rm>, execute ls com padrão desejado para ver quais arquivos são encontrados.
+__Verifique__. Antes de executar `rm`, execute `ls` com padrão desejado para ver quais arquivos são encontrados.
 ```
 $ ls *txt
 a.txt   b.txt   c.txt
