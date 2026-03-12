@@ -64,3 +64,26 @@ Edição no estivo Emacs:
 $ set -o emacs
 ```
 #### **_Pag 66._**
+| Ação  | Emacs |
+| ------------- |:-------------:|
+| Movimenta um catactere para frente      | Ctrl-f     |
+| Movimenta um catactere para trás      | Ctrl-b     |
+| Movimenta uma palavra para frente      | Meta-f     |
+| Movimenta uma palavra para trás      | Meta-b     |
+| Move para o fim da linha      | Ctrl-a     |
+| Move para o fim da linha      | Ctrl-e     |
+| Troca a posição de dois caracteres      | Ctrl-t     |
+| Troca a posição de duas palavras      | Meta-t     |
+| Coloca a primeira letra da próxima pavalra em maiúscula      | Meta-c     |
+| Coloca a próxiama palavra inteira em minúscula      | Meta-u     |Ctrl-
+| Coloca a próxiama palavra inteira em minúscula      | Meta-l     |
+| Excluí um catactere da frente      | Ctrl-d     |
+| Excluí um catactere de trás      | Ctrl-h     |
+| Excluí uma palavra da frente      | Meta-d     |
+| Excluí uma palavra de trás      | Ctrl-w     |
+| Remove do cursor ao início da linha      | Ctrl-u     |
+| Remove do cursor ao fim da linha      | Ctrl-k     |
+| Exclui a linha inteira      | Ctrl-e Ctrl-u     |
+| Cola o texto excluído      | Ctrl-y     |
+| Desfaz a operação de edição anterior      | Ctrl-_     |
+| Desfaz todas as edições feitas até agora      | Meta-r     |
